@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "9aa606ad-cc45-410a-89b7-3b8fd5ad9ab7",
+		"_postman_id": "b5505f7c-2074-4cc8-b3b2-37e15d4807a0",
 		"name": "Reqres",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "13986511"
@@ -43,7 +43,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"Hakan tektaş\",\n    \"job\": \"QA test\"\n}",
+					"raw": "{\n    \"name\": \"Hakan tektaş111\",\n    \"job\": \"QA tes11t\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
